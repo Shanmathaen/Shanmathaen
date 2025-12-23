@@ -16,7 +16,7 @@ evaluate security controls, and assess compliance requirements.
 
 🔹 Skills: Risk assessment, security controls, compliance  
 🔹 Frameworks: NIST CSF, PCI DSS, GDPR  
-🔗 Repository: https://github.com/YOUR-USERNAME/botium-toys-security-audit
+🔗 Repository:https://github.com/Shanmathaen/botium-toys-internal-it-audit
 
 ---
 
